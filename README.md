@@ -1,2 +1,2 @@
-# Hotel-Management-
-First OOP application in Java
+#### Hotel-Managemet
+My first OOP application in Java
