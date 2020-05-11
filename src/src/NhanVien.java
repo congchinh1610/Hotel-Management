@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ThinkPad
+ * @author Nguyen Chinh
  */
 public class NhanVien extends Nguoi {
     private String maNV, chucVu;

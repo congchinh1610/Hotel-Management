@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ThinkPad
+ * @author Nguyen Chinh
  */
 public class KhachHang extends Nguoi {
     private String maKH;

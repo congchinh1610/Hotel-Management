@@ -9,7 +9,7 @@ import java.util.Comparator;
 
 /**
  *
- * @author ThinkPad
+ * @author Nguyen Chinh
  */
 public class SapXepTheoTien implements Comparator<HoaDon>{
     public int compare(HoaDon p1, HoaDon p2) {

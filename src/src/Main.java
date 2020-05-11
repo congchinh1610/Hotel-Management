@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ThinkPad
+ * @author Nguyen Chinh
  */
 public class Main {
     static void menu() {

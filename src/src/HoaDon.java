@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ThinkPad
+ * @author Nguyen Chinh
  */
 public class HoaDon extends KhachHang {
     private String ngayLap, ngayDen, ngayDi;

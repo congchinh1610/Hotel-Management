@@ -11,7 +11,7 @@ import java.util.*;
 
 /**
  *
- * @author ThinkPad
+ * @author Nguyen Chinh
  */
 public class DSHD implements Serializable {
     ArrayList<HoaDon> listHoaDon;
