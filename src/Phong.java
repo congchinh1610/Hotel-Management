@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package src;
 
 import java.io.Serializable;
@@ -12,6 +7,7 @@ import java.util.Scanner;
  *
  * @author Nguyen Chinh
  */
+
 public class Phong implements Serializable {
     private String maPhong;
     private int donGia;
