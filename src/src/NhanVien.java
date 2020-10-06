@@ -30,21 +30,21 @@ public class NhanVien extends Nguoi {
         this.maNV = maNV;
     }
 
-    public String getChucVu() {
-        return chucVu;
-    }
-
-    public void setChucVu(String chucVu) {
-        this.chucVu = chucVu;
-    }
+//    public String getChucVu() {
+//        return chucVu;
+//    }
+//
+//    public void setChucVu(String chucVu) {
+//        this.chucVu = chucVu;
+//    }
     
     public void nhap() {
         super.nhap();
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhap ma nhan vien: ");
         maNV = sc.nextLine();
-        System.out.print("Nhap chuc vu: ");
-        chucVu = sc.nextLine();
+//        System.out.print("Nhap chuc vu: ");
+//        chucVu = sc.nextLine();
     }
     
     public void xuat() {
