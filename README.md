@@ -1,2 +1,2 @@
 #### Hotel-Managemet
-My first OOP application in Java
+OOP application in Java
